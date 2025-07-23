@@ -1,10 +1,11 @@
+
 <p align="center">
   <a href="https://hereandnowai.com" target="_blank">
     <img src="https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png" alt="HERE AND NOW AI Logo" width="400"/>
   </a>
 </p>
 
-<h1 align="center">Hands-on Training on GenAI and AI Agents</h1>
+<h1 align="center">Hands-on Workshop on GenAI and AI Agents</h1>
 <h3 align="center">Sathyabama University | July 2025</h3>
 <p align="center">
   <em>Designed with passion for innovation</em>
@@ -14,17 +15,17 @@
 
 > **Forge Your Future: Master Production-Grade AI and Secure Your Dream Job Before You Graduate.**
 
-This repository contains the curriculum and resources for the intensive, hands-on training program on Generative AI and AI Agents, conducted by **HERE AND NOW AI** for the students of Sathyabama University.
+This repository contains the curriculum and resources for the intensive, hands-on workshop on Generative AI and AI Agents, conducted by the AI product development team at **HERE AND NOW AI** for the students of Sathyabama University.
 
-The age of AI is not coming; it's here. This program offers a direct path from the classroom to the cutting edge of technology. We don't just teach AI; we build and deploy enterprise-grade AI solutions daily. We channel this real-world expertise directly into our training to empower the next generation of AI pioneers.
+The age of AI is not coming; it's here. This program offers a direct path from the classroom to the cutting edge of technology. We don't just talk about AI; we build and deploy enterprise-grade AI solutions daily. We channel this real-world expertise directly into our workshops to empower the next generation of AI pioneers.
 
 ---
 
-### Key Learning Outcomes
+### Key Workshop Outcomes
 
-*   **Go Beyond Theory with World-Class, Hands-On Projects:** Your training is built on production-level GitHub repositories. You won't just learn about AI; you will build it.
+*   **Go Beyond Theory with World-Class, Hands-On Projects:** This workshop is built on our production-level GitHub repositories. You won't just learn about AI; you will build it.
 *   **Develop a Portfolio That Gets You Hired:** By the end of our program, you will have a GitHub portfolio filled with impressive, real-world applications, giving you a decisive edge in interviews.
-*   **Learn from an Industry Leader:** HERE AND NOW AI is a full-scale AI product development firm. You learn from the team that is actively building the future of AI.
+*   **Learn from an Industry Leader:** HERE AND NOW AI is a full-scale AI product company. You learn from the team that is actively building the future of AI.
 *   **Bridge the Gap Between Academia and Industry:** This program is your opportunity to gain invaluable experience, making you not just a graduate with a degree, but a future-ready AI professional.
 
 ---
@@ -65,7 +66,7 @@ The age of AI is not coming; it's here. This program offers a direct path from t
 
 ### About HERE AND NOW AI
 
-**HERE AND NOW AI** is a leading AI research institute and product engineering firm founded in 2011. Headquartered in Chennai, our mission is to build enterprise-grade AI solutions and autonomous agent platforms. We partner with academic institutions to co-develop AI products and provide students with direct industry mentorship.
+**HERE AND NOW AI** is a leading AI product development company founded in 2011. Headquartered in Chennai, our mission is to build enterprise-grade AI solutions and autonomous agent platforms. We partner with academic institutions to co-develop AI products and provide students with direct industry mentorship.
 
 ### Connect With Us
 
