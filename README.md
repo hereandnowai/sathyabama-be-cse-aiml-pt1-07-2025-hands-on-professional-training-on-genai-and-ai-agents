@@ -14,7 +14,7 @@
 
 > **Forge Your Future: Master Production-Grade AI and Secure Your Dream Job Before You Graduate.**
 
-This repository contains the curriculum and resources for the intensive, hands-on Professional Training on Generative AI and AI Agents, conducted by the AI product development team at **HERE AND NOW AI** for the students of Sathyabama University.
+This repository contains the curriculum and resources for the intensive, hands-on Professional Training on Generative AI and AI Agents, conducted by the AI product development team at **HERE AND NOW AI** for the students of Sathyabama University..
 
 The age of AI is not coming; it's here. This program offers a direct path from the classroom to the cutting edge of technology. We don't just talk about AI; we build and deploy enterprise-grade AI solutions daily. We channel this real-world expertise directly into our Professional Training sessions to empower the next generation of AI pioneers.
 
